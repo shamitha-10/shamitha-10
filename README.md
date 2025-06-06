@@ -50,6 +50,11 @@ My focus areas include machine learning, data visualization, and building end-to
 - Internship or research roles in analytics, AI, or ML
 
 ---
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shamitha-10&show_icons=true&theme=default)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shamitha-10&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shamitha-10&layout=compact)
 
 ## 📫 How to Reach Me
 
